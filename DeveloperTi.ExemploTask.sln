@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTi.ExemploTask", "DeveloperTi.ExemploTask\DeveloperTi.ExemploTask.csproj", "{36B5DFB6-4583-4436-A52B-EF84C55F664D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTi.ExemploParalellInvoke", "DeveloperTi.ExemploTask\DeveloperTi.ExemploParalellInvoke.csproj", "{36B5DFB6-4583-4436-A52B-EF84C55F664D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeveloperTi.ExemploTask", "DeveloperTi.Task\DeveloperTi.ExemploTask.csproj", "{70D79511-4F73-47E4-813E-8704D3C52425}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{36B5DFB6-4583-4436-A52B-EF84C55F664D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36B5DFB6-4583-4436-A52B-EF84C55F664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36B5DFB6-4583-4436-A52B-EF84C55F664D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D79511-4F73-47E4-813E-8704D3C52425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D79511-4F73-47E4-813E-8704D3C52425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D79511-4F73-47E4-813E-8704D3C52425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D79511-4F73-47E4-813E-8704D3C52425}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
